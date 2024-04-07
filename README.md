@@ -20,3 +20,6 @@ Welcome to the AI Image Generator project! This application allows you to genera
 2. Click the "Submit" button to submit the description.
 3. The AI model will generate five images based on your description.
 4. Browse through the generated images to find the one that best matches your description.
+   
+## Interface
+![scrollshot-2024-04-07T08-37-56-UTC+05-00 (1)](https://github.com/manahild/AI_Image_Generator/assets/120354756/bf3dbadf-b1b2-4cea-9135-7080cfb1f796)

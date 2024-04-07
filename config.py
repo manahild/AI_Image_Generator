@@ -1,1 +1,1 @@
-key = "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"
+key = "write the openai api"
